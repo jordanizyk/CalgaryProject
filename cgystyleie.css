@@ -1,0 +1,6 @@
+/* Adding nicer font for IE because Google Fonts does not work in IE */
+
+body
+	{
+	font-family:'Georgia, serif';
+	}
